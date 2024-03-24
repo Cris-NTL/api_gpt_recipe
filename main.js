@@ -1,8 +1,8 @@
 // OPENAI configuration
 const OPENAI = {
     API_BASE_URL: 'https://api.openai.com/v1',
-    // API_KEY: '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',
-    API_KEY: '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',
+    // API_KEY: '**************************************',
+    API_KEY: '**************************************',
     GPT_MODEL: 'gpt-3.5-turbo',
     API_COMPLETIONS: '/chat/completions',
     API_IMAGE: '/images/generations',
